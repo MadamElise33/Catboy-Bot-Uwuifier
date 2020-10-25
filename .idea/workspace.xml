@@ -11,8 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad0b57ce-d99f-432c-a798-489ba3b923b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/license.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="1411" />
+    <option name="totalTimeSeconds" value="1458" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,7 +52,8 @@
       <updated>1603604349676</updated>
       <workItem from="1603604350793" duration="26000" />
       <workItem from="1603604378195" duration="639000" />
-      <workItem from="1603605118094" duration="1467000" />
+      <workItem from="1603605118094" duration="1509000" />
+      <workItem from="1603609793085" duration="71000" />
     </task>
     <servers />
   </component>
