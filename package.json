@@ -46,5 +46,7 @@
     ],
     "exec": "npm run build",
     "ext": "ts"
-  }
+  },
+  "description": "original: https://uwuifier.com/",
+  "dependencies": {}
 }
