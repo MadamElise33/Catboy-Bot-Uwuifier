@@ -10,14 +10,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad0b57ce-d99f-432c-a798-489ba3b923b6" name="Default Changelist" comment="" />
+    <list default="true" id="ad0b57ce-d99f-432c-a798-489ba3b923b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DarkyenusTimeTracker">
+    <option name="totalTimeSeconds" value="291" />
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/catboy-uwuifier" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jMC0OKS9baT1HlfaVSOLhFizZM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,6 +35,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -40,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603604349676</updated>
       <workItem from="1603604350793" duration="26000" />
+      <workItem from="1603604378195" duration="330000" />
     </task>
     <servers />
   </component>
@@ -56,11 +68,32 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="614" y="415" key="FileChooserDialogImpl" timestamp="1603604375985">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="614" y="415" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1603604375985" />
+    <state width="1088" height="318" key="GridCell.Tab.0.bottom" timestamp="1603604458056">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1088" height="318" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1603604458056" />
+    <state width="1088" height="318" key="GridCell.Tab.0.center" timestamp="1603604458056">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1088" height="318" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1603604458056" />
+    <state width="1088" height="318" key="GridCell.Tab.0.left" timestamp="1603604458056">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1088" height="318" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1603604458056" />
+    <state width="1088" height="318" key="GridCell.Tab.0.right" timestamp="1603604458056">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1088" height="318" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1603604458056" />
+    <state x="426" y="389" key="Vcs.Push.Dialog.v2" timestamp="1603604735741">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="426" y="389" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1603604735741" />
   </component>
 </project>
