@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/MadamElise33/Catboy-Bot-Uwuifier.git"
   },
-  "author": "Sjors van Holst",
+  "author": "Greggory",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MadamElise33/Catboy-Bot-Uwuifier/issues"
@@ -47,6 +47,4 @@
     "exec": "npm run build",
     "ext": "ts"
   },
-  "description": "original: https://uwuifier.com/",
-  "dependencies": {}
 }
