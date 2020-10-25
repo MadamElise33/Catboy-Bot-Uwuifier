@@ -1,0 +1,22 @@
+{
+  "name": "catboy-uwuifier",
+  "version": "1.0.0",
+  "description": "<a href=\"https://aimeos.org/\">\r     <img src=\"https://uwuifier.com/logo-large.png\" alt=\"Uwuifier logo\" title=\"Uwuifier\" align=\"right\" height=\"60\" />\r </a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Greggory",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.14",
+    "jest": "^26.4.2",
+    "nodemon": "^2.0.4",
+    "prettier": "^2.1.2",
+    "ts": "^0.2.2",
+    "ts-jest": "^26.4.0",
+    "tslint": "^6.1.3",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^4.0.3"
+  }
+}
