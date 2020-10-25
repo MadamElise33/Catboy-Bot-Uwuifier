@@ -1,13 +1,22 @@
 {
   "name": "catboy-uwuifier",
   "version": "1.0.0",
-  "description": "<a href=\"https://aimeos.org/\">\r     <img src=\"https://uwuifier.com/logo-large.png\" alt=\"Uwuifier logo\" title=\"Uwuifier\" align=\"right\" height=\"60\" />\r </a>",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "decription": "it's for my bot",
+  "main": "dist/index.js",
+  "types": "dist/index.d.js",
+  "files": [
+    "/dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadamElise33/Catboy-Bot-Uwuifier.git"
   },
-  "author": "Greggory",
+  "author": "Sjors van Holst",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadamElise33/Catboy-Bot-Uwuifier/issues"
+  },
+  "homepage": "https://github.com/MadamElise33/Catboy-Bot-Uwuifier",
   "devDependencies": {
     "@types/jest": "^26.0.14",
     "jest": "^26.4.2",
@@ -19,13 +28,25 @@
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^4.0.3"
   },
-  "dependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MadamElise33/Catboy-Bot-Uwuifier.git"
+  "scripts": {
+    "lint": "tslint -p tsconfig.json",
+    "test": "jest --config jestconfig.json",
+    "serve": "nodemon",
+    "build": "npm run lint && npm run format && npm run test && ts",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "prepare": "npm run build"
   },
-  "bugs": {
-    "url": "https://github.com/MadamElise33/Catboy-Bot-Uwuifier/issues"
+  "nodemonConfig": {
+    "ignore": [
+      ".git",
+      "node_modules"
+    ],
+    "watch": [
+      "src"
+    ],
+    "exec": "npm run build",
+    "ext": "ts"
   },
-  "homepage": "https://github.com/MadamElise33/Catboy-Bot-Uwuifier#readme"
+  "description": "original: https://uwuifier.com/",
+  "dependencies": {}
 }
