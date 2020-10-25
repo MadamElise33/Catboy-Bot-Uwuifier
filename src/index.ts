@@ -18,11 +18,12 @@ export class Uwuifier {
         `*sweats*`,
         `*pouts*`,
         `*sees buldge*`,
-        `*notices buldge`,
+        `*notices buldge*`,
         `*nuzzles*`,
         `*runs away*`,
         `*huggles tightly*`,
         `*boops your nose*`,
+        `*kisses you*`,
         `*starts twerking*`
     ];
     public uwuMap = [
