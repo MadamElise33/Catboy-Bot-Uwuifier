@@ -24,7 +24,9 @@ export class Uwuifier {
         `*huggles tightly*`,
         `*boops your nose*`,
         `*kisses you*`,
-        `*starts twerking*`
+        `*purs*`,
+        `*meows*`,
+        `*covers face*`
     ];
     public uwuMap = [
         [/(?:r|l)/g, `w`],
